@@ -1,0 +1,40 @@
+/* CSS Document */
+
+body{background-color: lightblue}
+
+header{
+    background-color: bisque;
+    text-align: center;
+    padding-top: 1px;
+}
+
+nav{
+    text-align: right;
+    word-spacing: 20px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+
+.divs{background-color: lightgoldenrodyellow;
+	width: 400px;
+	height: 340px;
+	margin: 0px;
+	margin-left: 220px;
+	padding: 10px;
+	float: left
+}
+
+.insidediv{background-color: aqua;
+    width: 150px;
+	float: right;
+	margin: 10px;
+	padding: 10px
+}
+
+footer{
+    background-color: aqua;
+    margin-top: 360px;
+    height: 50px;
+    padding-left: 50px;
+    padding-top: 1px;
+}
